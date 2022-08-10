@@ -1,4 +1,1 @@
-hi there : 
-    I'm Mohammed Azmi Ibrahim
-    From Mansoura 
-    My study in Faculty of Computer Information and Science ( FCIS || MU )
+ Hi there I'm mohammed azmii works as a Python Developer.
