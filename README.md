@@ -6,4 +6,4 @@
 -[**Python Fundamentals** ](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2001/Task%2001-Python%20fundamentals.py)
 #### Task 02 :
 -[**Questions file**](https://github.com/PydevAzmi/Python_Django/blob/master/Tasks%20files/02-Tasks.pdf)<br>
--[**Craete a code generator**](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2002/Create%20a%20code%20generator.py)
+-[**Create a code generator**](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2002/Create%20a%20code%20generator.py)
