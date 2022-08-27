@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;-[**Python Fundamentals** ](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2001/Task%2001-Python%20fundamentals.py)
 #### Task 02 :
 &nbsp;&nbsp;&nbsp;&nbsp;-[**Questions file**](https://github.com/PydevAzmi/Python_Django/blob/master/Tasks%20files/02-Tasks.pdf)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-[**Create a code generator**](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2002/Create%20a%20code%20generator.py)
+&nbsp;&nbsp;&nbsp;&nbsp;-[**Create a code generator**](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2002/Code%20Generator.py)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;-[**Build a countdown calculator**](https://github.com/PydevAzmi/Python_Django/blob/master/Task%2002/Countdown%20Calculator.py)
 <br>
