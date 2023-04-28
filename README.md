@@ -1,5 +1,5 @@
-# Python_Django Learning Steps
-## Every task in this course will be solved here
+
+
 ### Tasks :
 #### Task 01 :  
 &nbsp;&nbsp;&nbsp;&nbsp;-[**Questions file**](https://github.com/PydevAzmi/Python_Django/blob/master/Tasks%20files/01-Python%20Tasks%20Part%201.pdf)<br>
